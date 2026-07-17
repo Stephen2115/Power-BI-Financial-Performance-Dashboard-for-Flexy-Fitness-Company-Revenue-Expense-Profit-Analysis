@@ -1,0 +1,2 @@
+# Power-BI-Financial-Performance-Dashboard-for-Flexy-Fitness-Company-Revenue-Expense-Profit-Analysis
+This Power BI Financial Performance Dashboard analyzes revenue, expenses, and profitability across multiple business lines for Flexy Fitness Company. It features interactive KPIs, trend analysis, expense breakdowns, profit insights, and business-line comparisons to support data-driven financial decisions.
